@@ -1,6 +1,9 @@
 {
   "name": "vite-ts-postcss-basestyles",
   "version": "0.0.0",
+  "browserslist": [
+    "defaults"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
